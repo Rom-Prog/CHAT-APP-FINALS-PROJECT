@@ -2,7 +2,7 @@
 
 ChatApp
 Welcome to ChatApp! This project is a simple yet powerful chat application designed to facilitate real-time communication between users. Below, you'll find detailed information about the app, its features, dependencies, and how to get started.
-
+_____________________________________________________________________________________________________________________________________________________________________________________
 Table of Contents:
 1. Introduction
 2. Features
@@ -10,10 +10,10 @@ Table of Contents:
 4. Usage
 5. APIs
 6. Dependencies
-   
+_____________________________________________________________________________________________________________________________________________________________________________________
 **Introduction:**
 ChatApp is a real-time messaging application that allows users to communicate with each other through text, emojis, and GIFs. Users can create and join chat rooms to engage in group conversations. The application is built with a functional server to manage user connections and message exchanges efficiently.
-
+_____________________________________________________________________________________________________________________________________________________________________________________
 
 **Features:**
 
@@ -32,7 +32,7 @@ Dark Mode: Users can press the toggle button to activate the dark mode:
 
 Functional Server for Users: A robust server handles user connections and message routing.
 
-
+_____________________________________________________________________________________________________________________________________________________________________________________
 
 
 
@@ -42,7 +42,7 @@ Install Node.js: Ensure you have Node.js installed. You can download it from Nod
 
 
 
-
+_____________________________________________________________________________________________________________________________________________________________________________________
 
 
 **Usage:**
@@ -54,7 +54,7 @@ Once the server is running, you can access the chat application in your web brow
 
 
 
-FUNCTIONS:
+[FUNCTIONS]
 Send a Message: Type your message in the input box and press Enter or click the send button.
 
 Receive Messages: Messages from other users will appear in the chat window in real-time.
@@ -67,7 +67,7 @@ Send GIFs: Click on the GIF icon to search and send GIFs.
 
 
 
-
+_____________________________________________________________________________________________________________________________________________________________________________________
 
 
 **APIs:**
@@ -78,7 +78,7 @@ Giphy API: Used to search and send GIFs. Giphy API
 
 
 
-
+_____________________________________________________________________________________________________________________________________________________________________________________
 
 
 **Dependencies:**
@@ -88,6 +88,7 @@ ws: WebSocket library for Node.js.
 
 express: Fast, unopinionated, minimalist web framework for Node.js.
 
+_____________________________________________________________________________________________________________________________________________________________________________________
 
 MADE BY:
 
