@@ -73,9 +73,9 @@ ________________________________________________________________________________
 
 **APIs:**
 
-Emoji API: Used to fetch emojis for enhancing messages. Emoji API
+Emoji API: Used to fetch emojis for enhancing messages. https://emoji-api.com/
 
-Giphy API: Used to search and send GIFs. Giphy API
+Giphy API: Used to search and send GIFs. https://developers.giphy.com/branch/master/docs/api/
 
 
 
