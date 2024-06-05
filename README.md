@@ -85,9 +85,9 @@ ________________________________________________________________________________
 **Dependencies:**
 Node.js: JavaScript runtime environment.
 
-ws: WebSocket library for Node.js.
+ws: WebSocket library for Node.js. (npm i ws)
 
-express: Fast, unopinionated, minimalist web framework for Node.js.
+express: Fast, unopinionated, minimalist web framework for Node.js. (npm express --save)
 
 _____________________________________________________________________________________________________________________________________________________________________________________
 
