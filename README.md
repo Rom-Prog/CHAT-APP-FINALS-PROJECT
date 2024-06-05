@@ -55,6 +55,7 @@ Once the server is running, you can access the chat application in your web brow
 
 
 [FUNCTIONS]
+
 Send a Message: Type your message in the input box and press Enter or click the send button.
 
 Receive Messages: Messages from other users will appear in the chat window in real-time.
