@@ -20,6 +20,7 @@ Receive Message: Users can receive messages in real-time.
 Create Rooms: Users can create chat rooms for group conversations.
 Send Emojis: Users can enhance their messages with emojis.
 Send GIFs: Users can share animated GIFs in the chat.
+Dark Mode: Users can press the toggle button to activate the dark mode:
 Functional Server for Users: A robust server handles user connections and message routing.
 
 **Running**
